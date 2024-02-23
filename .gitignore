@@ -1,0 +1,7 @@
+.idea*
+src/flask/__pycache__/
+src/mall_customers_model/__pycache__/
+src/pipeline/__pycache__/
+src/preprocess/__pycache__/
+src/utils/__pycache__/
+test_suite/__pycache__/
